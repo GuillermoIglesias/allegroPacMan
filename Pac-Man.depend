@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408675589 source:c:\users\nazorth\desktop\proyecto allegro\pac-man\main.cpp
+	<allegro.h>
+	<cstdlib>
+
